@@ -6,7 +6,8 @@ Prerequisites
 To use this script 
 * Save the script as log_monitor.py
 * Run the script from the command line, passing the path to the log file example
-   python log_monitor.py /path/to/your/logfile.log
+
+    python log_monitor.py /path/to/your/logfile.log
 
 * The script will continuously monitor the specified log file for new entries
 * Press Ctrl+C to stop the monitoring loop.
